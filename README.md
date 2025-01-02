@@ -5,3 +5,4 @@ Just for recording what I have completed in Leetcode in 2025. The solved problem
 ## January
 
 - [1422. Maximum Score After Splitting a String](EASY/1422.cpp)
+- [2559. Count Vowel Strings in Ranges](EASY/2559.cpp)
