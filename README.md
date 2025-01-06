@@ -9,3 +9,4 @@ Just for recording what I have completed in Leetcode in 2025. The solved problem
 - [2270. Number of Ways to Split Array](MEDIUM/2270.cpp)
 - [1930. Unique Length-3 Palindromic Subsequences](MEDIUM/1930.cpp)
 - [2381. Shifting Letters II](MEDIUM/2381.cpp)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](MEDIUM/1769.cpp)
