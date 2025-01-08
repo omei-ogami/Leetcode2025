@@ -11,3 +11,4 @@ Just for recording what I have completed in Leetcode in 2025. The solved problem
 - [2381. Shifting Letters II](MEDIUM/2381.cpp)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](MEDIUM/1769.cpp)
 - [1408. String Matching in an Array](EASY/1408.cpp)
+- [3042. Count Prefix and Suffix Pairs I](EASY/3042.cpp)

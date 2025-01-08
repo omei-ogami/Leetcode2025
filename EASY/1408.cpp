@@ -3,7 +3,7 @@
 // Problem: String Matching in an Array
 // Difficulty: Easy
 //-----------------------------------------------------------------
-// Time Complexity: O(n^2*m)
+// Time Complexity: O(n^2 * m)
 // Space Complexity: O(1)
 // where n = words.length and m = max(words[i].length)
 //-----------------------------------------------------------------
