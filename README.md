@@ -12,3 +12,4 @@ Just for recording what I have completed in Leetcode in 2025. The solved problem
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](MEDIUM/1769.cpp)
 - [1408. String Matching in an Array](EASY/1408.cpp)
 - [3042. Count Prefix and Suffix Pairs I](EASY/3042.cpp)
+- [2185. Counting Words With a Given Prefix](EASY/2185.cpp)
