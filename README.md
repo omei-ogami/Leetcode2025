@@ -16,3 +16,4 @@ Just for recording what I have completed in Leetcode in 2025. The solved problem
 - [916. Word Subsets](MEDIUM/916.cpp)
 - [1400. Construct K Palindrome Strings](MEDIUM/1400.cpp)
 - [2116. Check if a Parentheses String Can Be Valid](MEDIUM/2116.cpp)
+- [3223. Minimum Length of String After Operations](MEDIUM/3223.cpp)
